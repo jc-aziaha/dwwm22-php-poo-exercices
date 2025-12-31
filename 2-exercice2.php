@@ -48,3 +48,6 @@
     echo $person1->presentation();
     echo $person2->presentation();
     echo $person3->presentation();
+
+
+    // salaire += salary * ($percentage / 100);
